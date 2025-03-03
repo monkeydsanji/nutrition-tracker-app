@@ -1,1 +1,1 @@
-echo. > requirements.txt
+git rm
