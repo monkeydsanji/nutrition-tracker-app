@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center" style="color: #4CAF50;">BENi AI Nutritional Tracker App</h1>
+<h1 align="center" style="color: #4CAF50;">Nutritional Tracker App</h1>
 
 <p align="center" style="font-size: 1.2em;">An innovative app to scan food items, track nutritional information, expiry dates, and check for allergens. Chat with AI to get personalized dietary advice!</p>
 
